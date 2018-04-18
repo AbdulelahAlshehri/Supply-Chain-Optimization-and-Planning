@@ -9,4 +9,4 @@ xlrd; <br />
 ![alt text](https://farm1.staticflickr.com/789/40836904814_f7894a1caa_o.png)
 
 #TODO <br />
-Add a serach algorithm or penalty term in Scenario 1 <br />
+Add a serach algorithm or penalty term to Scenario 1 <br />
